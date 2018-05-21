@@ -19,7 +19,7 @@ public class Main {
         Integer n = 3; 
 
         Integer[][] data = {{-5,46,-22},{23,-5,45},{21,7,2}}; //new Integer[3][3]
-
+        System.out.println("HOla");
         new MainFrame();
     }
 }
